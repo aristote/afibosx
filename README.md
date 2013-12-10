@@ -3,7 +3,7 @@ afibosx
 
 Playing with Xcode and github so I'm pushing stupid stuff...
 Please ignore. Was for an April fool day.
-
+```
 /////////////////////////////////////////////////////
  Test suite of malloc through the fibonacci sequence 
 /////////////////////////////////////////////////////
@@ -34,3 +34,4 @@ FiboChunk:  28657 bytes (verified via malloc_usable_size is 28672 bytes).
 Difference: 1125 bytes.
 -----------------------------------------------
 Program ended with exit code: 0
+```
